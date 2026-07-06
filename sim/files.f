@@ -1,0 +1,9 @@
+../rtl/sincos.v
+../rtl/clarke.v
+../rtl/park.v
+../rtl/inv_park.v
+../rtl/pi_ctrl.v
+../rtl/svpwm.v
+../rtl/deadtime.v
+../rtl/foc_top.v
+../tb/tb_foc.sv
